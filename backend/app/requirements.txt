@@ -2,3 +2,11 @@ flask
 pandas
 scikit-learn
 joblib
+firebase-admin>=6.0.0
+python-dotenv>=0.19.0
+flask-cors
+flask-mail
+pillow
+pytesseract
+sentence-transformers
+numpy
